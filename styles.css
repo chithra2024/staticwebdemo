@@ -1,0 +1,23 @@
+
+
+
+/* bootstrap images should be equally sized */
+img {
+    width: 50%;
+    height: auto;
+}
+
+/* footer fixed at bottom of page */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+}
+
+
+
+
+
+
+
